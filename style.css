@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+a:hover{
+    color: red;
+}
+
+h1{
+    color:blue;
+}
+
+h2{
+    color: blueviolet;
+}
